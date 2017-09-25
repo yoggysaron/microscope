@@ -159,3 +159,10 @@ body {
     margin-bottom: 5px;
     pointer-events: auto;
 }
+
+/* --------------------------------- MODIFICATION ---------------------------------- */
+
+.date-color {
+
+    color: red;
+}
